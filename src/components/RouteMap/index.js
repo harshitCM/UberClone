@@ -67,12 +67,12 @@ const RouteMap = (
   />
 
     <Marker
-     coordinate={origin}
+     coordinate={originLoc}
      title={'Origin'}
     />
 
 <Marker
-     coordinate={destination}
+     coordinate={destinationLoc}
      title={'Destination'}
     />
 
